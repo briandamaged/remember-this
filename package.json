@@ -1,0 +1,23 @@
+{
+  "name": "remember-this",
+  "version": "0.1.0",
+  "description": "Easily create functions bound to a specific object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/briandamaged/remember-this.git"
+  },
+  "keywords": [
+    "this",
+    "bind"
+  ],
+  "author": "Brian Lauber <constructible.truth@gmail.com> (https://briandamaged.org/blog)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/briandamaged/remember-this/issues"
+  },
+  "homepage": "https://github.com/briandamaged/remember-this#readme"
+}
